@@ -183,7 +183,7 @@ public class MyMouseAdapter extends MouseAdapter {
 								}
 
 							}
-							else{ //Reduces counter when red flag is removed
+							else{ //Reduces counter when red flag is removed 
 								Flags--;
 								myPanel1.colorArray[myPanel1.mouseDownGridX][myPanel1.mouseDownGridY] = Color.WHITE;
 								myPanel1.repaint();
