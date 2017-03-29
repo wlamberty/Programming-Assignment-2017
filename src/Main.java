@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 
 public class Main {
-	//Minesweeper Game!
+	//Minesweeper Game
 	public static void main(String[] args) {
 		JFrame myFrame = new JFrame("Minesweepers");
 		myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
